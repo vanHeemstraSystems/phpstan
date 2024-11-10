@@ -4,13 +4,13 @@ repositorynaam
 
 > Slaklijn
 
--   [Glossary](./GLOSSARY.md)
+-   [Glossarium](./GLOSSARY.md)
 -   [Referenties](./REFERENCES.md)
 -   [Documentatie](./DOCUMENTATION.md)
 
 **Samenvatting**
 
-Tekst
+Text
 
 ## 100 - Inleiding
 
