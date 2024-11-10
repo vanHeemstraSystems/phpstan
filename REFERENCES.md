@@ -1,3 +1,3 @@
 # References
 
-- [Reference Name](https://example.com)
+- [PHPStan](phpstan.org)
